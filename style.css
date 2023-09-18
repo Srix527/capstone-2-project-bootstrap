@@ -1,0 +1,38 @@
+body{
+    height:100vh;
+    background-color: #E4E4D0
+}
+
+/*Nav section*/
+#navbar{
+    background-color: #94A684;
+    
+}
+div div ul li:hover{
+    background-color: aliceblue;
+}
+/* Heading section*/
+#sam-sam{
+    border-radius: 15%;
+}
+
+/* Project section*/
+.img-cap-1{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+/* fonts below */
+h1{
+    font-family: 'Cardo', serif;
+}
+h2{
+    font-family: 'Cardo', serif;
+}
+p{
+    font-family: 'Cardo', serif;
+}
+p.lead{
+    font-family: 'Cardo', serif;
+    font-family: 'Satisfy', cursive;
+}
